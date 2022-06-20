@@ -1,0 +1,25 @@
+.titleSpace {
+    width: 100%;
+    text-align: center;
+    color: #72a8cf
+}
+
+.nav-tabs {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-tabs li {
+    width: 100%;
+    flex: 1;
+}
+
+.nav-link.active {
+    background-color: #72a8cf;
+    color: #fff;
+}
+
+.navbar {
+    padding-bottom: 0;
+}

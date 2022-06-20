@@ -1,0 +1,12 @@
+.bg-box {
+    background-image: url('../../assets/images/bg-main.jpg')
+}
+
+.container {
+    background-color: #fff;
+    padding-top: 16px;
+}
+
+.score {
+    text-align: right;
+}

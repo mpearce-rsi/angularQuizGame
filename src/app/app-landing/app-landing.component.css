@@ -1,0 +1,26 @@
+.headings {
+  text-align: center;
+}
+
+.start-button-container {
+  padding: 10px;
+}
+
+.start-button {
+  margin: 0 auto;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #72a8cf;
+  color: #fff;
+}
+
+.start-button:hover {
+  background-color: #fff;
+  color: #72a8cf;
+  border-color: #72a8cf;
+}
+
+.headings {
+  margin-top: 40px;
+}
